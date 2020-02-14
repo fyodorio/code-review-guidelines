@@ -1,2 +1,3 @@
-# code-review-guidelines
-Example of code review guidelines document and pull request template
+# Code Review Guidelines
+
+Examples of [code review guidelines]() document and [pull request template]() for team work
